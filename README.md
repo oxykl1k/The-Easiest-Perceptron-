@@ -1,1 +1,1 @@
-# Perceptron 2.0
+# The easiest model of Perceptron on C++ 
